@@ -1,0 +1,13 @@
+Source: xpybutil
+Section: python
+Priority: optional
+Maintainer: Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>
+Build-Depends: debhelper (>= 9), dh-python,
+               python, python-setuptools, python-xpyb
+Standards-Version: 3.9.8
+Homepage: https://github.com/BurntSushi/xpybutil
+
+Package: python-xpybutil
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}, python-xpyb
+Description: xcb-util for xpyb

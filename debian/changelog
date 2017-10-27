@@ -1,0 +1,13 @@
+xpybutil (0.0-1) onyedi; urgency=medium
+
+  * Update control file
+  * Add copyright and change source format
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Thu, 24 Aug 2017 13:58:24 +0300
+
+xpybutil (0.0) trusty; urgency=medium
+
+  [ 宋文武 ]
+  * Initial release.
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Fri, 17 Oct 2014 12:18:02 +0800
